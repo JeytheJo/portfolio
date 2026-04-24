@@ -58,7 +58,7 @@ export default function About() {
           <div className="about-info-block">
             <span className="about-info-label">Disponível para</span>
             <span className="about-info-value about-info-accent">
-              Estágio · Freela · Projetos
+              Estágio · Projetos
             </span>
           </div>
 
