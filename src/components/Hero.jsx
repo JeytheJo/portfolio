@@ -1,10 +1,4 @@
-/* ============================================
-   Hero.jsx — Seção principal
-   
-   useEffect + useState criam o typing effect:
-   a cada 80ms uma letra do título é adicionada
-   ao texto exibido, simulando digitação.
-   ============================================ */
+/*Hero.jsx — Seção principal*/
 
 import { useState, useEffect } from 'react'
 
