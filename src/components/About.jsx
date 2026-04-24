@@ -37,7 +37,7 @@ export default function About() {
 
           <div className="about-info-block">
             <span className="about-info-label">Localização</span>
-            <span className="about-info-value">Piauí, Brasil</span>
+            <span className="about-info-value">Teresina, Piauí</span>
           </div>
 
           <div className="about-info-block">
