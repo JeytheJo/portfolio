@@ -18,7 +18,7 @@ export default function App() {
     <div className="app-wrapper">
       <Navbar theme={theme} toggleTheme={toggleTheme} />
       <main>
-        <Hero />
+        <Hero theme={theme} />
         <About />
         <Skills />
         <Projects />
