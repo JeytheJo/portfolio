@@ -32,9 +32,9 @@ export default function Contact() {
             <span className="contact-heading-accent">algo juntos.</span>
           </h2>
           <p className="contact-sub">
-            Aberto para estágio, freela e projetos interessantes.
-            Se quiser conversar sobre segurança, desenvolvimento
-            ou uma ideia maluca — pode chamar.
+            Aberto para estágio e projetos interessantes.
+            Se quiser conversar sobre desenvolvimento ou segurança
+            pode chamar.
           </p>
         </div>
 
