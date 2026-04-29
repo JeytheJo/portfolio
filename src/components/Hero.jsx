@@ -50,7 +50,7 @@ export default function Hero({ theme }) {
           <a href="#projects" className="btn-primary">Ver Projetos</a>
           <a href="https://github.com/JeytheJo" target="_blank" rel="noreferrer" className="btn-ghost">GitHub</a>
           <a 
-            href="https://drive.google.com/uc?export=download&id=SEUID_AQUI" 
+            href="https://drive.google.com/uc?export=download&id=1mFtZNrokz6-r60bmE4XFNrP0WEPHgfkF" 
             target="_blank" 
             rel="noreferrer" 
             className="btn-ghost"
