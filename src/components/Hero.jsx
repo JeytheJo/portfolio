@@ -32,7 +32,7 @@ export default function Hero({ theme }) {
       <div className="hero-content">
         <div className="hero-tag">&gt; IDENTIFICANDO...</div>
         <h1 className="hero-name">
-          JEYTHE<br />
+          João Eduardo<br />
           <span className="hero-name-accent">JO</span>
         </h1>
         <p className="hero-realname">// João Eduardo · BR/PI</p>
