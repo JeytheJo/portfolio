@@ -23,7 +23,7 @@ export default function Hero({ theme }) {
 
       <div className="hero-photo">
         <img
-          src={theme === 'dark' ? '/portfolio/foto-dark.png' : '/portfolio/foto-light.png'}
+          src={theme === 'dark' ? '/foto-dark.png' : '/foto-light.png'}
           alt="João Eduardo"
           className="hero-photo-img"
         />
